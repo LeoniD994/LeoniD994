@@ -3,35 +3,45 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/leonid-zelov/)">
+  <a href="https://www.linkedin.com/in/leonid-zelov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=LeoniD994&style=flat-square&color=blue" alt=""/></div>
-<h3 align="center">When I code, I rely on</h3> 
-<p align="center"> 
-  <img  alt = "html5"  src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img  alt = "Javascript"  src = "https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" /> 
-  <img  alt = "React"  src = "https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
- <img alt = "redux" src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" / >
- <img alt =  " Sass "  src = "https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
-  <img  alt = "git"  src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
-  <img  alt = "npm"  src = "https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
-  <img  alt = "Красивее"  src ="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> 
-</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+- :telescope: I’m a Junior Front-end developer.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/leonid-zelov/))
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
-<!--
-**LeoniD994/LeoniD994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
